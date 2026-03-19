@@ -48,11 +48,11 @@ Login System
 
 	Display the following messages:
 
-	Attempt 1 → Incorrect PIN
+	Attempt 1! Incorrect PIN
 
-	Attempt 2 → Warning: Last attempt remaining
+	Attempt 2! Warning: Last attempt remaining
 
-	Attempt 3 → Card Blocked
+	Attempt 3! Card Blocked
 
 After Successful Login
 
@@ -63,7 +63,7 @@ Display a simple ATM Menu using loop + switch:
 	3 - Withdraw
 	4 - Exit
 
-ATM Rules
+ATM Rules (re-use activity 05)
 
 	Starting balance: 1000
 
